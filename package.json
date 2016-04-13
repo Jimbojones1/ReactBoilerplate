@@ -1,0 +1,25 @@
+{
+  "name": "reactboilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimbojones1/ReactBoilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimbojones1/ReactBoilerplate/issues"
+  },
+  "homepage": "https://github.com/Jimbojones1/ReactBoilerplate#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "path": "^0.12.7"
+  }
+}
